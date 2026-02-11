@@ -1,0 +1,10 @@
+{
+    "id": "com.wasabi39.more-trains",
+    "name": "More Trains",
+    "description": "Adds more types of trains to Subway Builder.",
+    "version": "1.0.0",
+    "author": {
+        "name": "wasabi39"
+    },
+    "main": "index.js"
+}
