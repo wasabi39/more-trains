@@ -29,7 +29,14 @@
             baseStationCost: 150_000_000,
             trainOperationalCostPerHour: 800,
             carOperationalCostPerHour: 80,
-            scissorsCrossoverCost: 20_000_000
+            scissorsCrossoverCost: 20_000_000,
+            stopTimeSeconds: 30,
+            parallelTrackSpacing: 3,
+            trackClearance: 1,
+            maxLateralAcceleration: 1,
+            minTurnRadius: 30,
+            minStationTurnRadius: 800,
+            maxSlopePercentage: 3,
         },
         compatibleTrackTypes: ['high-speed-metro'],
         appearance: {
